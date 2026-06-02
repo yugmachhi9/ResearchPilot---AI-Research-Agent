@@ -60,3 +60,6 @@ pytest
 
 # Optional Rich Console Output
 rich
+
+# UI
+streamlit
