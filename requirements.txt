@@ -1,0 +1,62 @@
+# Core LangChain Ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+
+# OpenAI
+openai
+
+# Search Tool
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+
+# Async HTTP Requests
+aiohttp
+httpx
+
+# Token Counting
+tiktoken
+
+# Output Parsing & Utilities
+jsonschema
+
+# Logging & Monitoring
+langsmith
+
+# Retry Mechanism
+tenacity
+
+# Data Handling
+pandas
+numpy
+
+# CLI / Development
+ipython
+
+# Optional Progress Bars
+tqdm
+
+# Type Hints Support
+typing-extensions
+
+# FastAPI (if you expose API endpoints later)
+fastapi
+uvicorn
+
+# Testing
+pytest
+
+# Optional Rich Console Output
+rich
