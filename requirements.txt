@@ -8,6 +8,9 @@ langgraph
 # OpenAI
 openai
 
+#mistral Ai
+langchain-mistralai
+
 # Search Tool
 tavily-python
 
